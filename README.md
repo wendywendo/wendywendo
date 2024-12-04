@@ -8,30 +8,15 @@ I'm a passionate **Web & Mobile Developer** who loves building innovative and ef
 - 🕸️ **Web Technologies**: HTML, CSS, JavaScript, React, Django  
 - 📱 **Mobile Development**: Android with Kotlin  
 - 💾 **Programming Languages**: Python, Java, C  
-- 🛠️ **Version Control**: Git for seamless collaboration  
-
----
-
-### 🌟 My Development Superpowers:
-- **Front-End Wizardry**: Crafting interactive, user-friendly interfaces.
-- **Back-End Mastery**: Creating robust, scalable server-side applications.
-- **App Magic**: Designing smooth and functional Android apps.
-- **Problem-Solving Genius**: Tackling challenges one line of code at a time.
-
+- 🛠️ **Version Control**: Git for seamless collaboration
+  
 ---
 
 ### 🌱 Currently Exploring
 - Advanced **Android development** patterns.
 - **Machine Learning** and how Python makes it accessible.
 - **DevOps practices** to enhance project deployment.
-
----
-
-### 🤝 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 📧 [Email Me](mailto:your-email@example.com)  
-
+  
 ---
 
 ### ⚡ Fun Fact

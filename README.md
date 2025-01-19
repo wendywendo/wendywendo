@@ -5,10 +5,10 @@
 ### 🚀 About Me
 I'm a passionate **Web & Mobile Developer** who loves building innovative and efficient digital solutions. My toolkit spans across:
 
-- 🕸️ **Web Technologies**: HTML, CSS, JavaScript, React, Django  
+- 🕸️ **Web Technologies**: HTML, CSS, JavaScript, Django, MERN Stack (Mongo DB, Express JS, React JS, Node JS)
 - 📱 **Mobile Development**: Android with Kotlin  
 - 💾 **Programming Languages**: Python, Java, C  
-- 🛠️ **Version Control**: Git for seamless collaboration
+- 🛠️ **Version Control**: Git for seamless collaboration, Github
   
 ---
 

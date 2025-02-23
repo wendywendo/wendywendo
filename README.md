@@ -13,15 +13,9 @@ I'm a passionate **Web & Mobile Developer** who loves building innovative and ef
 ---
 
 ### 🌱 Currently Exploring
-- Advanced **Android development** patterns.
+- Android **Jetpack Compose**.
 - **Machine Learning** and how Python makes it accessible.
-- **DevOps practices** to enhance project deployment.
   
----
-
-### ⚡ Fun Fact
-When I'm not coding, you'll find me exploring new gadgets, experimenting with DIY tech projects, or diving into gaming adventures. 🎮
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendywendo&show_icons=true&theme=radical)  

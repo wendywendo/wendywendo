@@ -13,9 +13,10 @@ I'm a passionate **Web & Mobile Developer** who loves building innovative and ef
 ---
 
 ### 🌱 Currently Exploring
+- **PHP and Laravel** Web Development
 - Android **Jetpack Compose**.
 - **Machine Learning** and how Python makes it accessible.
-  
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendywendo&show_icons=true&theme=radical)  

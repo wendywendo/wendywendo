@@ -1,27 +1,52 @@
-# Hi there! 👋 I'm Wendy  
+# Hey, I’m Wendy 👋🏽✨  
+### Web & Mobile Dev | Builder of Cool Things | Forever Curious 🚀
+
+Welcome to my little corner of GitHub!  
+I’m a **Web & Mobile Developer** who enjoys turning ideas into smooth, functional, and sometimes slightly over-engineered digital experiences 😄
 
 ---
 
-### 🚀 About Me
-I'm a passionate **Web & Mobile Developer** who loves building innovative and efficient digital solutions. My toolkit spans across:
+## 🧠 What I Build With
+I like mixing logic with creativity, and these are my go-to tools:
 
-- 🕸️ **Web Technologies**: HTML, CSS, JavaScript, Django, MERN Stack (Mongo DB, Express JS, React JS, Node JS)
-- 📱 **Mobile Development**: Android with Kotlin  
-- 💾 **Programming Languages**: Python, Java, C  
-- 🛠️ **Version Control**: Git for seamless collaboration, Github
-  
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
+- Django  
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+
+### 📱 Mobile Development
+- Android (Kotlin)  
+- Jetpack Compose ✨
+
+### 💻 Programming Languages
+- Python 🐍  
+- Java ☕  
+- C ⚙️
+
+### 🛠️ Dev Tools
+- Git & GitHub (because teamwork + backups = sanity)
+
 ---
 
-### 🌱 Currently Exploring
-- **PHP and Laravel** Web Development
-- Android **Jetpack Compose**.
-- **Machine Learning** and how Python makes it accessible.
+## 🌱 Currently Leveling Up
+Because learning never really stops:
+
+- ⚡ PHP & **Laravel**
+- 🎨 Android **Jetpack Compose**
+- 🤖 **Machine Learning** (Python makes it way too tempting)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wendywendo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wendywendo&layout=compact&theme=radical)
+## 🧩 Fun Facts About Me
+- I enjoy building things that *actually work* (most of the time 😅)
+- I love clean UI, structured logic, and good documentation
+- Debugging feels like detective work—and I’m oddly okay with that 🕵🏽‍♀️
+- Always curious, occasionally caffeinated ☕
+---
+
+## 💬 Motto I Live By
+> *“Code. Break it. Fix it. Learn. Repeat.”* 🔁
 
 ---
 
-💡 _"The only limit to our realization of tomorrow is our doubts of today."_ - Franklin D. Roosevelt
+✨ Thanks for stopping by!  

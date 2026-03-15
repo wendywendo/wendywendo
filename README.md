@@ -4,7 +4,7 @@ A little student figuring out the programming world, learning at my own pace, on
 
 ---
 
-### My Coding Basket
+## My Coding Basket
 
 - **MERN Stack** (MongoDB, ExpressJS, ReactJS, NodeJS)
 - Android Kotlin | Jetpack Compose

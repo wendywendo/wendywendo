@@ -1,33 +1,33 @@
 
-# Hey there, I'm Wendy 🌷
+# 🌷 Hey there, I'm Wendy 🌷
 A little student figuring out the programming world, learning at my own pace, one tiny win at a time.
 
 ---
 
-### 🧺 My Little Coding basket (It never stops!)
+### My Coding Basket
 
-- **MERN stack** (MongoDB, ExpressJS, ReactJS, NodeJS)
-- android kotlin · jetpack compose ✨
+- **MERN Stack** (MongoDB, ExpressJS, ReactJS, NodeJS)
+- Android Kotlin | Jetpack Compose
+- Machine Learning (currently learning)
 
-### 💻 Programming Languages
-- Python 🐍  
-- Java ☕  
-- C ⚙️
-- PHP & Laravel ⚡
+### Programming Languages
+- Python 
+- Java  
+- C
+- PHP & Laravel
 
-### 🛠️ Dev Tools
-- Git & GitHub (because teamwork + backups = sanity)
+### Dev Tools
+- Git & GitHub
+- Render
+
+### Design
+- TailwindCSS
+- Figma
 
 ---
 
-## 🧩 Fun Facts About Me
-- I enjoy building things that *actually work* (most of the time 😅)
-- Debugging feels like detective work—and I’m oddly okay with that 🕵🏽‍♀️
-- Always curious, occasionally caffeinated ☕
----
-
-## 💬 Motto I Live By
-> *“Code. Break it. Fix it. Learn. Repeat.”* 🔁
+## Motto I Live By
+> *“Know how to learn. Then, want to learn.”* 
 
 ---
 
